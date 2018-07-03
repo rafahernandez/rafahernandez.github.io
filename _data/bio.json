@@ -1,57 +1,41 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "José Rafael Hernandez",
+    "label": "Full Stack Developer",
+    "picture": "https://rafahernandez.github.io/images/foto_cv.png",
+    "email": "joraheta@gmail.com",
+    "phone": "",
+    "website": "https://rafahernandez.github.io",
+    "summary": "I'm a web developer working in the field since 2012, with a strong background in server-side processing.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "72460",
+      "city": "Puebla",
+      "countryCode": "MEX",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rafahernandez",
+        "url": "http://github.com/rafahernandez"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "jose-rafael-hernandez-tadeo",
+        "url": "https://www.linkedin.com/in/jose-rafael-hernandez-tadeo/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Natural language processing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Language models"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Machine learning",
       "keywords": [
       ]
     }
@@ -61,109 +45,129 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "PHP",
+        "Node",        
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Laravel",
+        "Express",
+        "ES2016"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "CentOS",
+        "Git",
+        "Firebase",
+        "AWS",
+        "SQL (MySQL, Oracle)"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Monterrey Institute of Technology and Higher Education at Puebla",
+      "area": "Computer Science and Technology",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2007-08-01",
+      "endDate": "2012-05-15",
+      "gpa": "90 / 100",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Cuponerapp Web Solutions",
+      "position": "Development Team Leader",
+      "website": "http://www.cuponerapp.com",
+      "startDate": "2018-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Project manager and backend developer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Manage a team of 3 developing custom made solutions for clients.",
+        "Responsible for backend programming.",
+        "Requirement analysis with customers.",
+        "Implemented DevOps processes to improve delivery times.",
+        "Improved client’s admin panel according to feedback."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Ellucian",
+      "position": "Software Developer",
+      "website": "http://www.ellucian.com",
+      "startDate": "2017-07-01",
+      "endDate": "2017-11-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Collaborated in the main product’s transition to a new framework.",
+        "Integrated to an existing SCRUM team and assisted with new releases.",
+        "Adapted existing code to comply with new government regulations.",
+        "Helped to correct defects reported by clients."
+      ]
+    },
+    {
+      "company": "Cuponerapp",
+      "position": "Full stack developer",
+      "website": "http://www.cuponerapp.com",
+      "startDate": "2016-09-01",
+      "endDate": "2017-06-30",
+      "summary": "",
+      "highlights": [
+        "Developed a system which helped to internal process optimization.",
+        "Resolved critical bugs on runtime.",
+        "Updated client’s dashboard to improve server-side processing time and usability.",
+        "Created a new version of the website that matches the functionality of our app and improved SEO ranking.",
+        "Implemented MongoDB for analytics tracking."
+      ]
+    },
+    {
+      "company": "Casa Saba",
+      "position": "Technical Customer Support",
+      "website": "",
+      "startDate": "2013-02-01",
+      "endDate": "2014-07-30",
+      "summary": "",
+      "highlights": [
+        "Update inventory software with new requirements.",
+        "Developed a system for internal control of human resources, expenses and service records for company cars.",
+        "Instructed and supervised the use of our inventory software in 25 pharmacies in the state of Puebla, Mexico.",
+        "Setup, instructed and supervised another 45 pharmacies in the state of Chiapas, Mexico.",
+        "Developed software on a self-managed team."
+      ]
+    },
+    {
+      "company": "Arcilla Tech",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2012-06-01",
+      "endDate": "2012-12-31",
+      "summary": "",
+      "highlights": [
+        "Developed desktop software in C#.",
+        "Created libraries to reuse code.",
+        "Adapted existing libraries to new standard (.Net 4.5)."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Fundación Reyes Baylón",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Coordinator",
+      "startDate": "2011-03-01",
+      "endDate": "2013-06-30",
+      "summary": "Coordinated teachers for rural schools",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Teached math at rural schools",
+        "Coordinated new teachers, assigned groups, created logistics"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
 }
