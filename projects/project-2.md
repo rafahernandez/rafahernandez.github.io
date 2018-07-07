@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/captura-puebla.jpg
-title: Cuponerapp
+title: Captura Puebla
 permalink: projects/captura-puebla
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-05
