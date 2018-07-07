@@ -16,7 +16,7 @@ summary: Set of admin panels and Android apps which improve report creation for 
 
 <img class="ui medium right floated rounded image" src="../images/captura-puebla-home.jpg">
 
-Captura Puebla is a multiple app projects, currently with my team we have published 7 of this kind of apps. The basic functionality is that staff who deliver or build products, that are given to beneficiaries of social programs , upload evidence via their android phones enabling real time updates for both bussiness and goverment officials. At the end of the program we generate reports which are reviewed and stored by goverment officials.
+Captura Puebla is a multiple app project, currently with my team we have published 7 of this kind of apps. The basic functionality is that staff who deliver or build products, that are given to beneficiaries of social programs , upload evidence via their android phones enabling real time updates for both bussiness and goverment officials. At the end of the program we generate reports which are reviewed and stored by goverment officials.
 
 With this apps we could dramatically improve times for reporting after the program is completed, lowering from days to just hours the creation of said reports. The real time component allowed builders to detect and solve problems in deliveries faster.
 
