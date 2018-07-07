@@ -35,8 +35,11 @@
       ]
     },
     {
-      "name": "Machine learning",
+      "name": "Web development",
       "keywords": [
+        "Backend",
+        "Frontend",
+        "REST APIs"
       ]
     }
   ],
@@ -46,7 +49,7 @@
       "level": "",
       "keywords": [
         "PHP",
-        "Node",        
+        "NodeJS",        
         "Javascript",
         "Laravel",
         "Express",
@@ -76,7 +79,17 @@
       "gpa": "90 / 100",
       "courses": [
       ]
+    },{
+      "institution": "National Institute of Astrophysics, Optics and Electronics",
+      "area": "Computer Science",
+      "studyType": "80 credits awarded towrds M. Sc.",
+      "startDate": "2014-08-01",
+      "endDate": "",
+      "gpa": "85 / 100",
+      "courses": [
+      ]
     }
+    
   ],
   "work": [
     {
@@ -166,8 +179,23 @@
       ]
     }
   ],
-  "awards": [
-  ],
-  "references": [
+  "publications": [
+    {
+      "name": "Detección de correo electrónico Spam usando clasificadores supervisados",
+      "type": "conference",
+      "author": "Jose Rafael Hernandez-Tadeo,Obed Higuera Tinoco, José Francisco Martínez-Trinidad",
+      "publisher": "Seminario Nacional de Aprendizaje E Inteligencia Computacional",
+      "releaseDate": "November, 2014",
+      "website": "https://ccc.inaoep.mx/SNAIC/articles/SNAIC-2014-Final.pdf",
+      "summary": ""
+    },{
+      "name": "Identifying Essential Elements in Justifications of Student Drafts",
+      "type": "conference",
+      "author": "José Rafael Hernández-Tadeo, Aurelio López-López, Samuel González-López",
+      "publisher": "Methodologies and Intelligent Systems for Technology Enhanced Learning ",
+      "releaseDate": "May, 2016",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-319-40165-2_11",
+      "summary": ""
+    } 
   ]
 }
