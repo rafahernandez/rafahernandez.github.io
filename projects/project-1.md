@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cuponerapp-square.png
+image: images/cuponerapp-square.jpg
 title: Cuponerapp
 permalink: projects/cuponerapp
 # All dates must be YYYY-MM-DD format!
