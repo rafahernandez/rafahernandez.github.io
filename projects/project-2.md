@@ -1,25 +1,25 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/captura-puebla.jpg
+title: Cuponerapp
+permalink: projects/captura-puebla
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-07-05
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - PHP
+  - REST API
+  - GIT
+  - MySQL
+summary: Set of admin panels and Android apps which improve report creation for social programs for the state of Puebla in Mexico
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/captura-puebla-home.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Captura Puebla is a multiple app projects, currently with my team we have published 7 of this kind of apps. The basic functionality is that staff who deliver or build products, that are given to beneficiaries of social programs , upload evidence via their android phones enabling real time updates for both bussiness and goverment officials. At the end of the program we generate reports which are reviewed and stored by goverment officials.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+With this apps we could dramatically improve times for reporting after the program is completed, lowering from days to just hours the creation of said reports. The real time component allowed builders to detect and solve problems in deliveries faster.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+My contribution was mainly in the backend part, I developed the API first with native PHP then moved to SLIM framework. I also developed the admin panels that display the real time data with maps and statistics. For communities without access to internet we developed an offline method that syncs databases between Android's SQLite and our server MySQL.
+
+Source: No public repository exists.
